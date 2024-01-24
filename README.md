@@ -4,7 +4,7 @@
 
 ## Installation
 
-[Download](https://github.com/ethereon/iterm2/releases/latest) the latest [`ethereon.itermcolors`](https://github.com/nordtheme/iterm2/blob/main/ethereon.itermcolors) file from the GitHub repository and import it:
+[Download](https://github.com/ethereontheme/iterm2/releases/latest) the latest [`ethereon.itermcolors`](https://github.com/ethereontheme/iterm2/blob/main/ethereon.itermcolors) file from the GitHub repository and import it:
 
 1. Start iTerm2 and open the _Preferences_.
 2. Switch to the _Profiles_ tab located in the topbar.
